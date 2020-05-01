@@ -228,7 +228,8 @@
         grid-row-start: 2;
         justify-self: center;
         align-self: center;
-
+        width: 90%;
+        height: 42%;
     }
 
     .desc1 {
@@ -241,6 +242,8 @@
         grid-row-start: 4;
         justify-self: center;
         align-self: center;
+        width: 90%;
+        height: 42%;
     }
 
     .desc2 {
