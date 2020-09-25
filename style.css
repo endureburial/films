@@ -43,6 +43,11 @@
         color: #ff6544;
         transition: .3s
     }
+
+    .orange:hover {
+        opacity: 70%;
+        transition: 0.5s;
+    }
     
     p {
         font-family: VT323, monospace;
